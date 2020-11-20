@@ -62,7 +62,7 @@ this a new project, welcome on board 👋
 ## Entrepeneurs 👨‍🚀
 
 
-## Hubs 
+## Hubs 🏠
 ### Incubators
 ### Accelerators
 
