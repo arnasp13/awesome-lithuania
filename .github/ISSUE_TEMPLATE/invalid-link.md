@@ -1,7 +1,7 @@
 ---
 name: Invalid link
 about: Create a report to help us improve
-title: "[INVALID LINK]"
+title: "[INVALID LINK]: replace X"
 labels: invalid
 assignees: ''
 
