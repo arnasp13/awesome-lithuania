@@ -1,7 +1,6 @@
 # awesome-lithuania
 
-this a new project, welcome on board 👋
-
+this a new project, welcome on board and feel free to contribute 👋
 ## Contents
 
 - [Tech](#tech-)
@@ -39,7 +38,7 @@ this a new project, welcome on board 👋
 ### Blogs
 ### Websites
 ### Newsletters
-
+- [tech philomaths](https://www.subscribepage.com/z5r9k8)
 
 ## Communities and Events 🎫
 
@@ -56,6 +55,8 @@ this a new project, welcome on board 👋
 ### Funding
 ### Investors
 ### Crowdfunding
+- [workland](https://wrkland.com)
+
 ### VCs
 
 
@@ -76,4 +77,3 @@ this a new project, welcome on board 👋
 ### Accounting
 ### Legal
 ### Advisory & Mentoring orgs
-
