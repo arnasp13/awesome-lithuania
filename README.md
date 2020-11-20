@@ -22,7 +22,7 @@ this a new project, welcome on board 👋
 (FB Groups / Blogs / Websites / Newsletters)
 
 
-## Communities and events 🎟️
+## Communities and Events 🎟️
 
 
 ## Education 🏫
