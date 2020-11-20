@@ -61,14 +61,16 @@ this a new project, welcome on board and feel free to contribute 👋
 ## Entrepeneurs 👨‍🚀
 
 
-## Hubs 
+## Hubs 🏠
 ### Incubators
 ### Accelerators
 
 
 
-## Coworking Spaces 🏖️
+
+## Coworking Spaces 🏰
 -  [workland](https://wrkland.com)
+
 
 ## Service Providers 🐕‍🦺
 ### Consulting
