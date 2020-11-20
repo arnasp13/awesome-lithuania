@@ -49,12 +49,16 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 
 ## Education 🏫
 ### Higher Education Institutions
+- [Vilnius University](https://www.vu.lt/en)
+- [Vilnius Tech](https://www.vgtu.lt/)
+
 ### Bootcamps
 - [Vilnius Coding School](https://www.vilniuscoding.lt/)
 - [Turing College](https://www.vilniuscoding.lt/)
 
 ## Startups and Established 🚀
-
+- [Vinted](https://www.vinted.com/)
+- [Tesonet](https://tesonet.com/)
 
 ## Money 💸
 ### Funding
@@ -71,9 +75,17 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 
 
 ## Hubs 🏠
-### Incubators
-### Accelerators
+- [AgriFood Lithuania](https://www.agrifood.lt/)
+- [Rockit](https://www.rockitvilnius.com/)
 
+### Incubators
+- [Business Hive](https://www.facebook.com/businesshivevilnius/)
+- [Mobility Innovation Center](https://mobilitytech.lt)
+
+### Accelerators
+- [Startup Wise Guys](https://startupwiseguys.com/about/)
+- [Baltic Sandbox](https://balticsandbox.eu/)
+- [Impact Rockit](https://www.impact.rockitvilnius.com/)
 
 
 ## Coworking Spaces 🏰
