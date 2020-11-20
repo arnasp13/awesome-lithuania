@@ -2,41 +2,48 @@
 
 this a new project, welcome on board 👋
 
-# tech 🖥️
+## Contents
 
-### 1. media 📰
+- [Tech](#tech)
+- [Communities and Events](#communities-and-events)
+- [Education](#education)
+- [Startups and Established](#startups-and-established)
+- [Money](#money)
+- [Entrepeneurs](#entrepeneurs)
+- [Hubs](#hubs)
+- [Coworking Spaces](#coworking-spaces)
+- [Editors](#editors)
+- [Service Providers](#service-providers)
 
-##### facebook groups
-##### blogs
-##### websites
-##### newsletters
+## Tech 🖥️
 
-### 2. communities and events 🌐
 
-#### 3. education 🏫
+## Media 🎥 
+(FB Groups / Blogs / Websites / Newsletters)
 
-##### higher education institutions
-##### bootcamps
 
-#### 4. startups and established 🚀
+## Communities and events 🌐
 
-#### 5. money 💸
-##### funding 
-##### investor 
-##### crowdfunding 
-##### venture capital companies
 
-#### 6. entrepeneurs 🤸
+## Education 🏫
+(Higher Education Institutions / Bootcamps)
 
-#### 7. hubs 🏛️
+## Startups and Established 🚀
 
-##### startup incubators
-##### startup accelerators
 
-#### 7. coworking spaces ⏱️
+## Money 💸
+(Funding / Investors / Crowdfunding / VCs)
 
-#### 8. service providers 🏆
-##### consulting
-##### accounting
-##### legal
-##### advisory & mentoring organizations
+
+## Entrepeneurs 🤸
+
+
+## Hubs 🏛️
+(Incubators / Accelerators)
+
+
+## Coworking spaces ⏱️
+
+
+## Service Providers 🏆
+(Consulting / Accounting / Legal / Advisory & Mentoring orgs)
