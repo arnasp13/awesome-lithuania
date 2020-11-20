@@ -68,7 +68,7 @@ this a new project, welcome on board 👋
 
 
 
-## Coworking Spaces 🏖️
+## Coworking Spaces 🏰
 
 
 ## Service Providers 🐕‍🦺
