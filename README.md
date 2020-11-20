@@ -55,8 +55,6 @@ this a new project, welcome on board and feel free to contribute 👋
 ### Funding
 ### Investors
 ### Crowdfunding
-- [workland](https://wrkland.com)
-
 ### VCs
 
 
@@ -70,7 +68,7 @@ this a new project, welcome on board and feel free to contribute 👋
 
 
 ## Coworking Spaces 🏖️
-
+-  [workland](https://wrkland.com)
 
 ## Service Providers 🐕‍🦺
 ### Consulting
