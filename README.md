@@ -22,7 +22,7 @@ this a new project, welcome on board 👋
 (FB Groups / Blogs / Websites / Newsletters)
 
 
-## Communities and Events 🎟️
+## Communities and Events 🎫
 
 
 ## Education 🏫
@@ -39,11 +39,11 @@ this a new project, welcome on board 👋
 ## Entrepeneurs 👨‍🚀
 
 
-## Hubs 🏘️
+## Hubs 
 (Incubators / Accelerators)
 
 
-## Coworking Spaces 🏠
+## Coworking Spaces 🏖️
 
 
 ## Service Providers 🐕‍🦺
