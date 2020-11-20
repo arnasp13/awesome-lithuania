@@ -8,6 +8,8 @@ this a new project, welcome on board 👋
 - [Media](#media-)
 - [Communities and Events](#communities-and-events-)
 - [Education](#education-)
+  - [Higher Education Institutions](#higher-education-institutions)
+  - [Bootcamps](#bootcamps)
 - [Startups and Established](#startups-and-established-)
 - [Money](#money-)
 - [Entrepeneurs](#entrepeneurs-)
@@ -26,7 +28,8 @@ this a new project, welcome on board 👋
 
 
 ## Education 🏫
-(Higher Education Institutions / Bootcamps)
+### Higher Education Institutions
+### Bootcamps
 
 
 ## Startups and Established 🚀
