@@ -5,7 +5,7 @@ this a new project, welcome on board 👋
 ## Contents
 
 - [Tech](#tech)
-- [Media](#media-🎥)
+- [Media](#media-)
 - [Communities and Events](#communities-and-events)
 - [Education](#education)
 - [Startups and Established](#startups-and-established)
