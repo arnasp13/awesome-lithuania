@@ -50,7 +50,8 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 ## Education 🏫
 ### Higher Education Institutions
 ### Bootcamps
-
+- [Vilnius Coding School](https://www.vilniuscoding.lt/)
+- [Turing College](https://www.vilniuscoding.lt/)
 
 ## Startups and Established 🚀
 
@@ -60,6 +61,10 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 ### Investors
 ### Crowdfunding
 ### VCs
+- [Contranian Ventures](https://cventures.vc/)
+- [Practica Capital](https://practica.vc/)
+- [Iron Wolf Capital](https://www.ironwolfcapital.com/)
+- [Koinvesticinis Fondas](https://www.koinvest.lt/)
 
 
 ## Entrepeneurs 👨‍🚀
@@ -68,7 +73,6 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 ## Hubs 🏠
 ### Incubators
 ### Accelerators
-
 
 
 
