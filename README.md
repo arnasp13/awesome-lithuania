@@ -18,32 +18,32 @@ this a new project, welcome on board 👋
 ## Tech
 
 
-## Media 🎥 
+## Media 
 (FB Groups / Blogs / Websites / Newsletters)
 
 
-## Communities and events 🌐
+## Communities and events
 
 
-## Education 🏫
+## Education
 (Higher Education Institutions / Bootcamps)
 
-## Startups and Established 🚀
+## Startups and Established
 
 
-## Money 💸
+## Money
 (Funding / Investors / Crowdfunding / VCs)
 
 
-## Entrepeneurs 🤸
+## Entrepeneurs
 
 
-## Hubs 🏛️
+## Hubs
 (Incubators / Accelerators)
 
 
-## Coworking spaces ⏱️
+## Coworking spaces
 
 
-## Service Providers 🏆
+## Service Providers
 (Consulting / Accounting / Legal / Advisory & Mentoring orgs)
