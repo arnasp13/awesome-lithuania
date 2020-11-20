@@ -70,7 +70,10 @@ this a new project, welcome on board and feel free to contribute 👋
 
 
 ## Coworking Spaces 🏰
--  [workland](https://wrkland.com)
+- [workland](https://wrkland.com)
+- [Vilnius Tech Park](www.vilniustechpark.com)
+- [Wolf Space](https://thewolfspace.com/)
+- [Monday Office](https://www.mondayoffice.lt/)
 
 
 ## Service Providers 🐕‍🦺
