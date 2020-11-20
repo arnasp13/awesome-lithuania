@@ -29,7 +29,7 @@ this a new project, welcome on board 👋
   - [Consulting](#consulting)
   - [Accounting](#accounting)
   - [Legal](#legal)
-  - [Advisory & Mentoring orgs](#advisory-&-mentoring-orgs)
+  - [Advisory & Mentoring orgs](#advisory--mentoring-orgs)
 
 ## Tech 💻
 
