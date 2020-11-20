@@ -73,7 +73,10 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 
 
 ## Coworking Spaces 🏰
--  [workland](https://wrkland.com)
+- [workland](https://wrkland.com)
+- [Vilnius Tech Park](www.vilniustechpark.com)
+- [Wolf Space](https://thewolfspace.com/)
+- [Monday Office](https://www.mondayoffice.lt/)
 
 
 ## Service Providers 🐕‍🦺
