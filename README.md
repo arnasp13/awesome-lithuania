@@ -3,7 +3,7 @@
 This a new project, welcome on board and feel free to contribute 👋
 Check our contributing [guide](./contributing.md)
 
-If you have any ideas or feedback feel free to submit issues. For business inquiries, we can also be contacted personally.
+If you have any ideas or feedback feel free to submit issues. For business inquiries, contributors can also be contacted personally.
 ## Contents
 
 - [Tech](#tech-)
