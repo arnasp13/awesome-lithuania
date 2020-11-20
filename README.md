@@ -5,6 +5,7 @@ this a new project, welcome on board 👋
 ## Contents
 
 - [Tech](#tech)
+- [Media](#media)
 - [Communities and Events](#communities-and-events)
 - [Education](#education)
 - [Startups and Established](#startups-and-established)
@@ -14,10 +15,10 @@ this a new project, welcome on board 👋
 - [Coworking Spaces](#coworking-spaces)
 - [Service Providers](#service-providers)
 
-## Tech
+## Tech 
 
 
-## Media 
+## Media
 (FB Groups / Blogs / Websites / Newsletters)
 
 
