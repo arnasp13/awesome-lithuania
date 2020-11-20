@@ -35,6 +35,7 @@ this a new project, welcome on board and feel free to contribute 👋
 
 ## Media 🎥
 ### FB Groups
+- [Internship @ LT startups](https://www.facebook.com/groups/internLTstartups)
 ### Blogs
 ### Websites
 ### Newsletters
