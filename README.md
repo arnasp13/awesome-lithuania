@@ -12,7 +12,6 @@ this a new project, welcome on board 👋
 - [Entrepeneurs](#entrepeneurs)
 - [Hubs](#hubs)
 - [Coworking Spaces](#coworking-spaces)
-- [Editors](#editors)
 - [Service Providers](#service-providers)
 
 ## Tech
@@ -43,7 +42,7 @@ this a new project, welcome on board 👋
 (Incubators / Accelerators)
 
 
-## Coworking spaces
+## Coworking Spaces
 
 
 ## Service Providers
