@@ -6,11 +6,19 @@ labels: invalid
 assignees: ''
 ---
 
-# invalid-link
+# Other
 
-**Provide the invalid link's place and other details** E.g. [https://github.com/arnasp13/awesome-lithuania\#1-media](https://github.com/arnasp13/awesome-lithuania#1-media)
+## I would like to join the team, what do I do?
 
-**If you have the right link, provide the invalid link that should be replaced**
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
-**Additional context** Add any other context about the problem here.
+## How do I support this project?
+
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+
+## What are the rules of this project?
+
+Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+
+#### 
 

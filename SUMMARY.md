@@ -2,14 +2,6 @@
 
 * [Welcome](README.md)
 
-## About
-
-* [Features](about/features.md)
-* [Introduction](about/introduction.md)
-* [Terminology](about/terminology.md)
-* [FAQ](about/faq/README.md)
-  * [invalid-link](about/faq/invalid-link.md)
-
 ## Database
 
 * [Tech](database/tech/README.md)
@@ -21,12 +13,18 @@
   * [Education](database/tech/education.md)
   * [Communities and Events](database/tech/communities-and-events.md)
   * [Media](database/tech/media.md)
-
-## Information
-
-* [Contribution](information/contribution.md)
+* [Covid-19](database/covid-19.md)
 
 ---
 
 * [Edit on GitHub](https://github.com/arnasp13/awesome-lithuania)
+
+## About
+
+* [Features](about/features.md)
+* [Introduction](about/introduction.md)
+* [Terminology](about/terminology.md)
+* [FAQ](about/faq/README.md)
+  * [Contribution](about/faq/contribution.md)
+  * [Other](about/faq/invalid-link.md)
 
