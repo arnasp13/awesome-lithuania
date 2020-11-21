@@ -39,18 +39,21 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 ## Media 🎥
 ### FB Groups
 - [Internship @ LT startups](https://www.facebook.com/groups/internLTstartups)
+- [LT Startup's Community](https://www.facebook.com/groups/397122950315503)
+
 ### Blogs
 ### Websites
 ### Newsletters
 - [tech philomaths](https://www.subscribepage.com/z5r9k8)
 
 ## Communities and Events 🎫
-
+- [SaaStock Local Vilnius](https://local.saastock.com/vilnius/)
 
 ## Education 🏫
 ### Higher Education Institutions
 - [Vilnius University](https://www.vu.lt/en)
 - [Vilnius Tech](https://www.vgtu.lt/)
+- [Kaunas University of Technology](https://ktu.lt/)
 
 ### Bootcamps
 - [Vilnius Coding School](https://www.vilniuscoding.lt/)
@@ -59,24 +62,30 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 ## Startups and Established 🚀
 - [Vinted](https://www.vinted.com/)
 - [Tesonet](https://tesonet.com/)
+- [Interactio](https://interactio.io/)
 
 ## Money 💸
 ### Funding
 ### Investors
+- [LitBAN - Lithuanian Business Angels Network](https://www.litban.lt/)
+- [Coinvest Capital](https://www.koinvest.lt/en/homepage)
+
 ### Crowdfunding
 ### VCs
 - [Contranian Ventures](https://cventures.vc/)
 - [Practica Capital](https://practica.vc/)
 - [Iron Wolf Capital](https://www.ironwolfcapital.com/)
 - [Koinvesticinis Fondas](https://www.koinvest.lt/)
-
+- [70V - Seed](https://70v.com/)
 
 ## Entrepeneurs 👨‍🚀
-
+Justas Janauskas
+Mantas Mikuckas
 
 ## Hubs 🏠
 - [AgriFood Lithuania](https://www.agrifood.lt/)
 - [Rockit](https://www.rockitvilnius.com/)
+- [Tech Zity](www.techzity.com)
 
 ### Incubators
 - [Business Hive](https://www.facebook.com/businesshivevilnius/)
@@ -86,6 +95,8 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 - [Startup Wise Guys](https://startupwiseguys.com/about/)
 - [Baltic Sandbox](https://balticsandbox.eu/)
 - [Impact Rockit](https://www.impact.rockitvilnius.com/)
+- [70V - Revenue Accelerator](https://70v.com)
+- [Katalista Ventures](http://www.katalistaventures.com/)
 
 
 ## Coworking Spaces 🏰
@@ -93,7 +104,7 @@ If you have any ideas or feedback feel free to submit issues. For business inqui
 - [Vilnius Tech Park](www.vilniustechpark.com)
 - [Wolf Space](https://thewolfspace.com/)
 - [Monday Office](https://www.mondayoffice.lt/)
-
+- [Lighthouse - Klaipeda](https://lighthouse.lt/)
 
 ## Service Providers 🐕‍🦺
 ### Consulting
