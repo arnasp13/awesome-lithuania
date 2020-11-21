@@ -1,15 +1,28 @@
 # Table of contents
 
-* [awesome-lithuania](README.md)
-* [Content](content.md)
-* [.github](.github.md)
-* [Change Log](change-log/README.md)
-  * [ISSUE\_TEMPLATE](change-log/issue_template.md)
-* [Contribution](contribution/README.md)
-  * [feature-request](contribution/feature-request.md)
-* [FAQ](faq/README.md)
-  * [invalid-link](faq/invalid-link.md)
-* [contributing](contributing.md)
-* [docs](docs/README.md)
-  * [pull\_request\_template](docs/pull_request_template.md)
+* [Welcome](README.md)
+
+## About
+
+* [Features](about/features.md)
+* [Introduction](about/introduction.md)
+* [Terminology](about/terminology.md)
+* [FAQ](about/faq/README.md)
+  * [invalid-link](about/faq/invalid-link.md)
+
+## Database
+
+* [Tech](database/tech/README.md)
+  * [Service Providers](database/tech/service-providers.md)
+  * [Hubs](database/tech/hubs.md)
+  * [Entrepreneurs](database/tech/entrepreneurs.md)
+  * [Money](database/tech/money.md)
+  * [Startups and Established](database/tech/startups-and-established.md)
+  * [Education](database/tech/education.md)
+  * [Communities and Events](database/tech/communities-and-events.md)
+  * [Media](database/tech/media.md)
+
+## Information
+
+* [Contribution](information/contribution.md)
 

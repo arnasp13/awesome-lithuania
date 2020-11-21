@@ -2,138 +2,41 @@
 description: <Explanation on what is this project about and why should you use it>
 ---
 
-# awesome-lithuania
+# Welcome
 
-This a new project, welcome on board and feel free to contribute 👋 Check our contributing [guide](contributing.md)
+## &lt;who are we&gt;
+
+This a new project, welcome on board and feel free to contribute 👋 
 
 If you have any ideas or feedback feel free to submit issues. For business inquiries, contributors can also be contacted personally.
 
-## Contents
+To suggest changes, click the GitHub icon on any docs page and make a pull request. If you're not sure how to do that, read our contributing [guide]()
 
-* [Tech](./#tech-)
-* [Media](./#media-)
-  * [FB Groups](./#fb-groups)
-  * [Blogs](./#blogs)
-  * [Websites](./#websites)
-  * [Newsletters](./#newsletters)
-* [Communities and Events](./#communities-and-events-)
-* [Education](./#education-)
-  * [Higher Education Institutions](./#higher-education-institutions)
-  * [Bootcamps](./#bootcamps)
-* [Startups and Established](./#startups-and-established-)
-* [Money](./#money-)
-  * [Funding](./#funding)
-  * [Investors](./#investors)
-  * [Crowdfunding](./#crowdfunding)
-  * [VCs](./#vcs)
-* [Entrepeneurs](./#entrepeneurs-)
-* [Hubs](./#hubs-)
-  * [Incubators](./#incubators)
-  * [Accelerators](./#accelerators)
-* [Coworking Spaces](./#coworking-spaces-)
-* [Service Providers](./#service-providers-)
-  * [Consulting](./#consulting)
-  * [Accounting](./#accounting)
-  * [Legal](./#legal)
-  * [Advisory & Mentoring orgs](./#advisory--mentoring-orgs)
+If you can't find the answer you're looking for, contact us at [support@opencollective.com](mailto:support@opencollective.com) or at discord/slack
 
-## Tech 💻
+## Find your way to the right page
 
-## Media 🎥
+### Reading more about our community
 
-### FB Groups
+Read our **Terminology** page to know more about all key members of our community:
 
-* [Internship @ LT startups](https://www.facebook.com/groups/internLTstartups)
-* [LT Startup's Community](https://www.facebook.com/groups/397122950315503)
+{% page-ref page="about/terminology.md" %}
 
-### Blogs
+### Using our search bar
 
-### Websites
+Use the search bar on the top right to search for specific words or phrases:
 
-### Newsletters
+![](.gitbook/assets/screenshot-2020-11-21-at-14.36.36.png)
 
-* [tech philomaths](https://www.subscribepage.com/z5r9k8)
+### Browsing sections
 
-## Communities and Events 🎫
+Want to know more about Open Collective? Read our **About** section:
 
-* [SaaStock Local Vilnius](https://local.saastock.com/vilnius/)
+{% page-ref page="about/introduction.md" %}
 
-## Education 🏫
+Interested in reading more about Open Collective's features? Go to our **Product** section:
 
-### Higher Education Institutions
+{% page-ref page="about/features.md" %}
 
-* [Vilnius University](https://www.vu.lt/en)
-* [Vilnius Tech](https://www.vgtu.lt/)
-* [Kaunas University of Technology](https://ktu.lt/)
-
-### Bootcamps
-
-* [Vilnius Coding School](https://www.vilniuscoding.lt/)
-* [Turing College](https://www.vilniuscoding.lt/)
-
-## Startups and Established 🚀
-
-* [Vinted](https://www.vinted.com/)
-* [Tesonet](https://tesonet.com/)
-* [Interactio](https://interactio.io/)
-
-## Money 💸
-
-### Funding
-
-### Investors
-
-* [LitBAN - Lithuanian Business Angels Network](https://www.litban.lt/)
-* [Coinvest Capital](https://www.koinvest.lt/en/homepage)
-
-### Crowdfunding
-
-### VCs
-
-* [Contranian Ventures](https://cventures.vc/)
-* [Practica Capital](https://practica.vc/)
-* [Iron Wolf Capital](https://www.ironwolfcapital.com/)
-* [Koinvesticinis Fondas](https://www.koinvest.lt/)
-* [70V - Seed](https://70v.com/)
-
-## Entrepeneurs 👨‍🚀
-
-Justas Janauskas Mantas Mikuckas
-
-## Hubs 🏠
-
-* [AgriFood Lithuania](https://www.agrifood.lt/)
-* [Rockit](https://www.rockitvilnius.com/)
-* [Tech Zity](https://github.com/arnasp13/awesome-lithuania/tree/b1d42f15789e99a2cf00fc98268b292edee77b21/www.techzity.com)
-
-### Incubators
-
-* [Business Hive](https://www.facebook.com/businesshivevilnius/)
-* [Mobility Innovation Center](https://mobilitytech.lt)
-
-### Accelerators
-
-* [Startup Wise Guys](https://startupwiseguys.com/about/)
-* [Baltic Sandbox](https://balticsandbox.eu/)
-* [Impact Rockit](https://www.impact.rockitvilnius.com/)
-* [70V - Revenue Accelerator](https://70v.com)
-* [Katalista Ventures](http://www.katalistaventures.com/)
-
-## Coworking Spaces 🏰
-
-* [workland](https://wrkland.com)
-* [Vilnius Tech Park](https://github.com/arnasp13/awesome-lithuania/tree/b1d42f15789e99a2cf00fc98268b292edee77b21/www.vilniustechpark.com)
-* [Wolf Space](https://thewolfspace.com/)
-* [Monday Office](https://www.mondayoffice.lt/)
-* [Lighthouse - Klaipeda](https://lighthouse.lt/)
-
-## Service Providers 🐕‍🦺
-
-### Consulting
-
-### Accounting
-
-### Legal
-
-### Advisory & Mentoring orgs
+## 
 
