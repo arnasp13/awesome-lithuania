@@ -2,7 +2,7 @@
 description: <Explanation on what is this project about and why should you use it>
 ---
 
-# Welcome
+# 👋 Welcome
 
 ## &lt;who are we&gt;
 
