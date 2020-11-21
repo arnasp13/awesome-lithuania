@@ -13,7 +13,6 @@
   * [Education](database/tech/education.md)
   * [Communities and Events](database/tech/communities-and-events.md)
   * [Media](database/tech/media.md)
-* [Covid-19](database/covid-19.md)
 
 ---
 
