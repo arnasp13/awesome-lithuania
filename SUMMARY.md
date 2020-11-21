@@ -26,3 +26,7 @@
 
 * [Contribution](information/contribution.md)
 
+---
+
+* [Edit on GitHub](https://github.com/arnasp13/awesome-lithuania)
+
