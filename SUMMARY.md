@@ -2,7 +2,7 @@
 
 * [Welcome](README.md)
 
-## Database
+## 💾 database
 
 * [Tech](database/tech/README.md)
   * [Service Providers](database/tech/service-providers.md)
@@ -17,9 +17,9 @@
 
 ---
 
-* [Edit on GitHub](https://github.com/arnasp13/awesome-lithuania)
+* [✍️ Edit on GitHub](https://github.com/arnasp13/awesome-lithuania)
 
-## About
+## 🧍about
 
 * [Features](about/features.md)
 * [Introduction](about/introduction.md)
