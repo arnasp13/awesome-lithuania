@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Awesome Lithuania FAQ
+    url: http://awesome-lithuania.com/faq
+    about: Frequently Asked Questions
+  - name: Awesome Lithuania info email
+    url: mailto:info@awesome-lithuania.com
+    about: Should you have any questios not covered in FAQ, feel free to email us.
