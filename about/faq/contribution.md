@@ -2,42 +2,37 @@
 
 ## Who can contribute?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+Anybody who wants to help by adding information to the database, financially - our Patreon integration will be soon available.  
 
 ## How do I submit a change?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+You can submit changes through Git - check our [contributing guide](https://github.com/arnasp13/awesome-lithuania) on Github. If it is difficult for you to use Git, then you can send us an email \(info@awesome-lithuania.com\) and describe contribution you would like to make. Make sure to start the subject with **AWESOME LITHUANIA:**
 
-## Getting Super Powers
+**Template for sending an email**
 
-Becoming a super hero is a fairly straight forward process:
+```text
+[Insert URL(s) to the list below]
+[Topic],[Subtopic] - [Link]
 
+[Explain what this list is about and why it should be included here]
+
+[If you have feedback/suggestions write it down here]
+
+Sincerely, 
+[Your Name]
 ```
-$ give me super-powers
-```
+
+## Rules
+
+Becoming a super hero is a fairly straight forward process!
+
+Our goal is to have the information that is credible and trustworthy. Do not upload articles, upload seperate subjects and you must be guaranteed that information is not false.
 
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ All content \(PRs, comments, titles and etc.\) must be in English.
 {% endhint %}
 
-Once you're strong enough, save the world:
+Thank you 🚀🧑‍🚀
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
-```
-{% endcode %}
 
-Our goal is to have the information that is credible and trustworthy. Do not upload articles, upload seperate subjects and you must be guaranteed that information is true.
-
-All content \(PRs, comments, titles and etc.\) must be in English.
-
-**Is your feature request related to a problem? Please describe.** A clear and concise description of what the problem is. Ex. I'm always frustrated when \[...\]
-
-**Describe the solution you'd like** A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered** A clear and concise description of any alternative solutions or features you've considered.
-
-**Additional context** Add any other context or screenshots about the feature request here.
 

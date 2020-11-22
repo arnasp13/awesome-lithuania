@@ -1,8 +1,16 @@
 ---
-description: <Say sth cool and add rocket emoji>
+description: Frequently Asked Questions
 ---
 
 # FAQ
 
-#### 
+## **Contribution concerns**
+
+{% page-ref page="contribution.md" %}
+
+## General concerns
+
+{% page-ref page="general.md" %}
+
+
 

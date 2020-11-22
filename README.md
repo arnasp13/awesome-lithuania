@@ -44,7 +44,7 @@ Interested in reading more about Awesome-Lithuania's features? Go to our **featu
 
 ## Overall FAQ
 
-To read more elaborated answers, go to **About/FAQ**:
+To read more about contribution or general questions, go to **About/FAQ**:
 
 {% page-ref page="about/faq/" %}
 
