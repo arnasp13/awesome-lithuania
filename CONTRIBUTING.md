@@ -2,7 +2,7 @@
 
 * Found a bug? Open a bug-type issue
 * Have a feature or an enhancement to suggest? Open feature-request-type or an enhancement-type issue
-* Sovle issues by opening a pull requests with the changes suggested or a fix
+* Solve issues by opening a pull requests with the changes suggested or a fix
 
 ## How to contribute through code change?
 
