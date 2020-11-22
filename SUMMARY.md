@@ -21,7 +21,6 @@
 ## 🧍about
 
 * [Features](about/features.md)
-* [Introduction](about/introduction.md)
 * [Terminology](about/terminology.md)
 * [FAQ](about/faq/README.md)
   * [Contribution](about/faq/contribution.md)

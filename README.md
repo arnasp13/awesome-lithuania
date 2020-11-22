@@ -38,13 +38,15 @@ Want to know more about Lithuania's awesome tech? Read our **tech** section:
 
 Want to know more about Awesome-Lithuania? Read our **introduction** section:
 
-{% page-ref page="about/introduction.md" %}
-
 Interested in reading more about Awesome-Lithuania's features? Go to our **features** section:
 
 {% page-ref page="about/features.md" %}
 
 ## Overall FAQ
+
+To read more elaborated answers, go to **About/FAQ**:
+
+{% page-ref page="about/faq/" %}
 
 ### **What is Awesome-Lithuania?**
 
