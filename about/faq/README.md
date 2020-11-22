@@ -12,5 +12,5 @@ description: Frequently Asked Questions
 
 {% page-ref page="general.md" %}
 
-Any other questions can be asked via email info@awesome-lithuania.com.
+Any other questions can be asked via email [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
 

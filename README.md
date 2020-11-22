@@ -62,7 +62,7 @@ It's different because it is fully transparent \(you can see where the informati
 
 ### How can I contact you?
 
-Email [email@awesome-lithuania.com](mailto:email@awesome-lithuania.com).
+Via emai: [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
 
 ### How can I contribute?
 
