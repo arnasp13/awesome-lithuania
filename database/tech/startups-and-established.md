@@ -1,4 +1,4 @@
-# Startups
+# Companies
 
 ## Startups
 

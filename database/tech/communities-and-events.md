@@ -1,6 +1,6 @@
-# Communities and Events
+# Socials
 
-## Communites
+## Communities
 
 [GDG Vilnius](https://gdg.community.dev/gdg-vilnius/)
 

@@ -1,5 +1,11 @@
 # Hubs
 
+## Incubators
+
+[Business Hive](https://www.facebook.com/businesshivevilnius/)
+
+[Mobility Innovation Center](https://mobilitytech.lt)
+
 ## Hubs 
 
 [AgriFood Lithuania](https://www.agrifood.lt/)
@@ -7,12 +13,6 @@
 [Rockit](https://www.rockitvilnius.com/)
 
 [Tech Zity](https://github.com/arnasp13/awesome-lithuania/tree/b1d42f15789e99a2cf00fc98268b292edee77b21/www.techzity.com)
-
-## Incubators
-
-[Business Hive](https://www.facebook.com/businesshivevilnius/)
-
-[Mobility Innovation Center](https://mobilitytech.lt)
 
 ## Accelerators
 
