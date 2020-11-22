@@ -8,7 +8,7 @@
   * [Media](database/tech/media.md)
   * [Communities and Events](database/tech/communities-and-events.md)
   * [Education](database/tech/education.md)
-  * [Startups and Established](database/tech/startups-and-established.md)
+  * [Startups](database/tech/startups-and-established.md)
   * [Money](database/tech/money.md)
   * [Entrepreneurs](database/tech/entrepreneurs.md)
   * [Hubs](database/tech/hubs.md)

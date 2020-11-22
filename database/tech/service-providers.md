@@ -1,10 +1,14 @@
 # Service Providers
 
-### Consulting
+## Consulting
 
-### Accounting
+[CIVITTA Lithuania](https://civitta.com/countries/lithuania)
 
-### Legal
+## Accounting
 
-### Advisory & Mentoring orgs
+## Legal
+
+[Legal Baltic](mailto:info@legalbaltic.com)
+
+## Advisory & Mentoring
 

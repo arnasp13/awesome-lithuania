@@ -1,6 +1,10 @@
-# Startups and Established
+# Startups
 
-* [Vinted](https://www.vinted.com/)
-* [Tesonet](https://tesonet.com/)
-* [Interactio](https://interactio.io/)
+## Startups
+
+[Vinted](https://www.vinted.com/)
+
+[Tesonet](https://tesonet.com/)
+
+[Interactio](https://interactio.io/)
 
