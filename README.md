@@ -32,15 +32,9 @@ Use the search bar on the top right to search for specific words or phrases:
 
 We started with the tech industry, however the database can eventually be filled with more topics.
 
-Want to know more about Lithuania's awesome tech? Read our **tech** section:
+Want to know more about Lithuania's awesome tech? Read our **database/tech** section:
 
 {% page-ref page="database/tech/" %}
-
-Want to know more about Awesome-Lithuania? Read our **introduction** section:
-
-Interested in reading more about Awesome-Lithuania's features? Go to our **features** section:
-
-{% page-ref page="about/features.md" %}
 
 ## Overall FAQ
 
@@ -66,7 +60,7 @@ Via emai: [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
 
 ### How can I contribute?
 
-We are an open source project and run it ourselves. You can contribute [money](https://opencollective.com/opencollectiveinc) and by submitting issues and pull-requests, we'd really love to see you contributing! 
+We are an open source project and run it ourselves. You can contribute money \(Patreon integration will be soon launched\) and by submitting issues and pull-requests. We'd really love to see you contributing! 🚀 
 
 For more info about how you can contribute to **Awesome-Lithuania**, check the [contributing page](about/faq/contribution.md).
 

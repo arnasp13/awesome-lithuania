@@ -20,7 +20,6 @@
 
 ## 🧍about
 
-* [Features](about/features.md)
 * [Terminology](about/terminology.md)
 * [FAQ](about/faq/README.md)
   * [General](about/faq/general.md)
