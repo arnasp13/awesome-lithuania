@@ -6,9 +6,7 @@ Anybody who wants to help by adding information to the database, financially - o
 
 ## How do I submit a change?
 
-You can submit changes through Git - check our [contributing guide](https://github.com/arnasp13/awesome-lithuania) on Github. If it is difficult for you to use Git, then you can send us an email \(info@awesome-lithuania.com\) and describe contribution you would like to make. Make sure to start the subject with **AWESOME LITHUANIA:**
-
-**Template for sending an email**
+You can submit changes through Git - check our [contributing guide](https://github.com/arnasp13/awesome-lithuania) on Github. If it is difficult for you to use Git, then you can send us an email \(info@awesome-lithuania.com\) and describe contribution you would like to make. Make sure to start the subject with **`AWESOME LITHUANIA:`.** Furthermore, you should use our template:
 
 ```text
 [Insert URL(s) to the list below]
@@ -32,7 +30,5 @@ Our goal is to have the information that is credible and trustworthy. Do not upl
  All content \(PRs, comments, titles and etc.\) must be in English.
 {% endhint %}
 
-Thank you 🚀🧑‍🚀
-
-
+#### Thank you 🚀🧑‍🚀
 
