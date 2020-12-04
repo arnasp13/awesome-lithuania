@@ -54,7 +54,7 @@ Via email: [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
 
 ### How can I contribute?
 
-We are an open source project and run it ourselves. You can contribute money \(Patreon integration will be soon launched\) and by submitting issues and pull-requests. We'd really love to see you contributing! 🚀 
+We are an open source project and run it ourselves. You can contribute money  on [Patreon](https://www.patreon.com/awesomelithuania) and by submitting issues and pull-requests. We'd really love to see you contributing! 🚀 
 
 For more info about how you can contribute to **Awesome-Lithuania**, check the [contributing page](about/faq/contribution.md).
 

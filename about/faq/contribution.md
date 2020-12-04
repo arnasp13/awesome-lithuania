@@ -2,7 +2,7 @@
 
 ## Who can contribute?
 
-Anybody who wants to help by adding information to the database, financially - our Patreon integration will be soon available.  
+Anybody who wants to help by adding information to the database or financially, then check our [Patreon](https://www.patreon.com/awesomelithuania).  
 
 ## How do I submit a change?
 
