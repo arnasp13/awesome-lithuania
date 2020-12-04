@@ -6,7 +6,7 @@ description: >-
 
 # 👋 Welcome
 
-Awesome-Lithuania is a fully online platform that allows everyone to access information about various situations in Lithuania regarding different topics.
+Awesome-Lithuania is a fully online platform that allows everyone to access information about various organisations and initiatives in Lithuania regarding different topics.
 
 The content is uploaded and completely maintained by the community. It's a work-in-progress now, so feel free to give us feedback and contribute yourself! 🏄
 
