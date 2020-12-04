@@ -6,7 +6,7 @@ description: >-
 
 # 👋 Welcome
 
-Awesome-Lithuania is a fully online platform that allows everyone access information about various situations in Lithuania regarding different topics. 
+Awesome-Lithuania is a fully online platform that allows everyone to access information about various situations in Lithuania regarding different topics.
 
 The content is uploaded and completely maintained by the community. It's a work-in-progress now, so feel free to give us feedback and contribute yourself! 🏄
 
@@ -21,12 +21,6 @@ If you can't find the answer you're looking for, contact us at email@awesome-lit
 Read our **Terminology** page to know more about all key members of our community:
 
 {% page-ref page="about/terminology.md" %}
-
-### Using our search bar
-
-Use the search bar on the top right to search for specific words or phrases:
-
-![](.gitbook/assets/screen-recording-2020-11-21-at-19.18.48%20%281%29.mov)
 
 ### Sections
 
@@ -52,11 +46,11 @@ An Awesome-Lithuania is great for people who want to know more about Lithuania a
 
 ### How is it different from other **simple articles**?
 
-It's different because it is fully transparent \(you can see where the information comes from\), and designed for everyone, including inviduals and organizations.
+It's different because it is fully transparent \(you can see where the information comes from\), and designed for everyone, including people and organizations.
 
 ### How can I contact you?
 
-Via emai: [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
+Via email: [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
 
 ### How can I contribute?
 
