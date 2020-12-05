@@ -1,6 +1,6 @@
 ---
 description: >-
-  Our mission is to provide a sustainable base of information that is fully
+  Our mission is to provide a database of information that is fully
   self-sustainable by the community.
 ---
 
