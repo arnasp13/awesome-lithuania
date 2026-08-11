@@ -1,3 +1,5 @@
+
+
 ---
 description: >-
   Our mission is to provide a database of information that is fully
@@ -12,7 +14,7 @@ The content is uploaded and completely maintained by the community. It's a work-
 
 To suggest changes, click the button "✍️ Edit on GitHub" on any page and make a pull request. If you're not sure how to do that, read our [contributing guide](about/faq/contribution.md) ✉️
 
-If you can't find the answer you're looking for, contact us at email@awesome-lithuania.com.
+If you can't find the answer you're looking for, contact us at info@awesome-lithuania.com.
 
 ## Find your way to the right page
 
@@ -57,4 +59,3 @@ Via email: [info@awesome-lithuania.com](mailto:info@awesome-lithuania.com).
 We are an open source project and run it ourselves. You can contribute money  on [Patreon](https://www.patreon.com/awesomelithuania) and by submitting issues and pull-requests. We'd really love to see you contributing! 🚀 
 
 For more info about how you can contribute to **Awesome-Lithuania**, check the [contributing page](about/faq/contribution.md).
-
