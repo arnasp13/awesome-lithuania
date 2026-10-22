@@ -21,6 +21,8 @@ description: >-
 
 [Invest Lithuania](https://investlithuania.com/news)
 
+[Įmonių Analitika](https://imoniuanalitika.lt)
+
 ## Newsletters
 
 [Tech Philomaths](https://www.subscribepage.com/z5r9k8)
